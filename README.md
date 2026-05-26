@@ -1,6 +1,7 @@
 # Academia — Laravel CRUD
 
-Projeto acadêmico: gestão simples de academia com 5 entidades e CRUD completo.
+Acadêmicos: Samuel Wiggers & Julio Max
+Projeto: gestão simples de academia com 5 entidades e CRUD completo.
 
 ## Entidades
 
